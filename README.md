@@ -20,6 +20,7 @@ Responsibilities:
 * AWS
 * Apache Spark
 * RESTful API (FastAPI)
+* MLOps
    
    
 
